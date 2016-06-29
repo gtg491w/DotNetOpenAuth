@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace OAuth2ProtectedWebApi.Controllers {
 	public class HomeController : Controller {
 		public ActionResult Index() {
-			return View();
+			return View(); 
 		}
 	}
 }
